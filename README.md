@@ -1,4 +1,4 @@
-# EEG-MI-classification
+# EEG MI classification using hybrid 1D-Res-Net-SE
 1. Download the dataset 
 Link: https://zenodo.org/record/7893847
 
